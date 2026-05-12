@@ -1,0 +1,183 @@
+
+============================================================
+COLUMN: Country
+============================================================
+Unique Values Count: 48
+
+Value: United States | Count: 751 | Percentage: 59.65%
+Value: United Kingdom | Count: 185 | Percentage: 14.69%
+Value: Canada | Count: 72 | Percentage: 5.72%
+Value: Germany | Count: 45 | Percentage: 3.57%
+Value: Ireland | Count: 27 | Percentage: 2.14%
+Value: Netherlands | Count: 27 | Percentage: 2.14%
+Value: Australia | Count: 21 | Percentage: 1.67%
+Value: France | Count: 13 | Percentage: 1.03%
+Value: India | Count: 10 | Percentage: 0.79%
+Value: New Zealand | Count: 8 | Percentage: 0.64%
+Value: Poland | Count: 7 | Percentage: 0.56%
+Value: Switzerland | Count: 7 | Percentage: 0.56%
+Value: Sweden | Count: 7 | Percentage: 0.56%
+Value: Italy | Count: 7 | Percentage: 0.56%
+Value: South Africa | Count: 6 | Percentage: 0.48%
+Value: Belgium | Count: 6 | Percentage: 0.48%
+Value: Brazil | Count: 6 | Percentage: 0.48%
+Value: Israel | Count: 5 | Percentage: 0.40%
+Value: Singapore | Count: 4 | Percentage: 0.32%
+Value: Bulgaria | Count: 4 | Percentage: 0.32%
+Value: Austria | Count: 3 | Percentage: 0.24%
+Value: Finland | Count: 3 | Percentage: 0.24%
+Value: Mexico | Count: 3 | Percentage: 0.24%
+Value: Russia | Count: 3 | Percentage: 0.24%
+Value: Denmark | Count: 2 | Percentage: 0.16%
+Value: Greece | Count: 2 | Percentage: 0.16%
+Value: Colombia | Count: 2 | Percentage: 0.16%
+Value: Croatia | Count: 2 | Percentage: 0.16%
+Value: Portugal | Count: 2 | Percentage: 0.16%
+Value: Moldova | Count: 1 | Percentage: 0.08%
+Value: Georgia | Count: 1 | Percentage: 0.08%
+Value: Bahamas, The | Count: 1 | Percentage: 0.08%
+Value: China | Count: 1 | Percentage: 0.08%
+Value: Thailand | Count: 1 | Percentage: 0.08%
+Value: Czech Republic | Count: 1 | Percentage: 0.08%
+Value: Norway | Count: 1 | Percentage: 0.08%
+Value: Romania | Count: 1 | Percentage: 0.08%
+Value: Nigeria | Count: 1 | Percentage: 0.08%
+Value: Japan | Count: 1 | Percentage: 0.08%
+Value: Hungary | Count: 1 | Percentage: 0.08%
+Value: Bosnia and Herzegovina | Count: 1 | Percentage: 0.08%
+Value: Uruguay | Count: 1 | Percentage: 0.08%
+Value: Spain | Count: 1 | Percentage: 0.08%
+Value: Zimbabwe | Count: 1 | Percentage: 0.08%
+Value: Latvia | Count: 1 | Percentage: 0.08%
+Value: Costa Rica | Count: 1 | Percentage: 0.08%
+Value: Slovenia | Count: 1 | Percentage: 0.08%
+Value: Philippines | Count: 1 | Percentage: 0.08%
+
+
+
+============================================================
+COLUMN: work_interfere
+============================================================
+Unique Values Count: 5
+
+Value: Sometimes | Count: 465 | Percentage: 36.93%
+Value: Unknown | Count: 264 | Percentage: 20.97%
+Value: Never | Count: 213 | Percentage: 16.92%
+Value: Rarely | Count: 173 | Percentage: 13.74%
+Value: Often | Count: 144 | Percentage: 11.44%
+
+
+
+============================================================
+COLUMN: no_employees
+============================================================
+Unique Values Count: 6
+
+Value: 6-25 | Count: 290 | Percentage: 23.03%
+Value: 26-100 | Count: 289 | Percentage: 22.95%
+Value: More than 1000 | Count: 282 | Percentage: 22.40%
+Value: 100-500 | Count: 176 | Percentage: 13.98%
+Value: 1-5 | Count: 162 | Percentage: 12.87%
+Value: 500-1000 | Count: 60 | Percentage: 4.77%
+
+
+
+============================================================
+COLUMN: anonymity
+============================================================
+Unique Values Count: 3
+
+Value: Don't know | Count: 819 | Percentage: 65.05%
+Value: Yes | Count: 375 | Percentage: 29.79%
+Value: No | Count: 65 | Percentage: 5.16%
+
+
+
+============================================================
+COLUMN: leave
+============================================================
+Unique Values Count: 5
+
+Value: Don't know | Count: 563 | Percentage: 44.72%
+Value: Somewhat easy | Count: 266 | Percentage: 21.13%
+Value: Very easy | Count: 206 | Percentage: 16.36%
+Value: Somewhat difficult | Count: 126 | Percentage: 10.01%
+Value: Very difficult | Count: 98 | Percentage: 7.78%
+
+
+
+============================================================
+COLUMN: mental_health_consequence
+============================================================
+Unique Values Count: 3
+
+Value: No | Count: 490 | Percentage: 38.92%
+Value: Maybe | Count: 477 | Percentage: 37.89%
+Value: Yes | Count: 292 | Percentage: 23.19%
+
+
+
+============================================================
+COLUMN: phys_health_consequence
+============================================================
+Unique Values Count: 3
+
+Value: No | Count: 925 | Percentage: 73.47%
+Value: Maybe | Count: 273 | Percentage: 21.68%
+Value: Yes | Count: 61 | Percentage: 4.85%
+
+
+
+============================================================
+COLUMN: coworkers
+============================================================
+Unique Values Count: 3
+
+Value: Some of them | Count: 774 | Percentage: 61.48%
+Value: No | Count: 260 | Percentage: 20.65%
+Value: Yes | Count: 225 | Percentage: 17.87%
+
+
+
+============================================================
+COLUMN: supervisor
+============================================================
+Unique Values Count: 3
+
+Value: Yes | Count: 516 | Percentage: 40.98%
+Value: No | Count: 393 | Percentage: 31.22%
+Value: Some of them | Count: 350 | Percentage: 27.80%
+
+
+
+============================================================
+COLUMN: mental_health_interview
+============================================================
+Unique Values Count: 3
+
+Value: No | Count: 1008 | Percentage: 80.06%
+Value: Maybe | Count: 207 | Percentage: 16.44%
+Value: Yes | Count: 44 | Percentage: 3.49%
+
+
+
+============================================================
+COLUMN: phys_health_interview
+============================================================
+Unique Values Count: 3
+
+Value: Maybe | Count: 557 | Percentage: 44.24%
+Value: No | Count: 500 | Percentage: 39.71%
+Value: Yes | Count: 202 | Percentage: 16.04%
+
+
+
+============================================================
+COLUMN: mental_vs_physical
+============================================================
+Unique Values Count: 3
+
+Value: Don't know | Count: 576 | Percentage: 45.75%
+Value: Yes | Count: 343 | Percentage: 27.24%
+Value: No | Count: 340 | Percentage: 27.01%
+
